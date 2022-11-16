@@ -13,4 +13,4 @@ logoutButton.addEventListener('click', async () => {
     logout();
 });
 
-// log out button
+// authentication
