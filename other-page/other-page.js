@@ -13,4 +13,4 @@ logoutButton.addEventListener('click', async () => {
     logout();
 });
 
-//comment
+// log out button
