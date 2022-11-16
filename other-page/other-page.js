@@ -12,3 +12,5 @@ window.addEventListener('load', async () => {
 logoutButton.addEventListener('click', async () => {
     logout();
 });
+
+//comment
